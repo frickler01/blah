@@ -6,3 +6,5 @@ Nerdy thoughts on pointless computer stuff
 2015-05-08 [Workstation hardware](2015-05-08_workstation.md)  
 2015-07-04 [Digital text formatting](2015-07-04_text.md)  
 2016-04-26 [What I hate about Jekyll](2016-04-26_hate-jekyll.md)  
+2016-10-01 [UNAS NSC-800](2016-10-01_unas-nsc-800.md)
+
